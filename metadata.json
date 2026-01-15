@@ -1,0 +1,5 @@
+{
+  "name": "Vibe Capital Asset Management Node",
+  "description": "A high-performance, Notion-inspired financial terminal for industrial PMs and BIOS experts, featuring Gemini-powered asset diagnostics and context-aware financial consulting.",
+  "requestFramePermissions": []
+}
